@@ -1,0 +1,25 @@
+
+# Librerías básicas
+numpy==1.23.5
+pandas==1.5.3
+matplotlib==3.6.2
+seaborn==0.12.1
+
+# Procesamiento de texto
+nltk==3.8.1
+spacy==3.5.0
+python-dotenv==0.21.1
+
+# Machine Learning
+scikit-learn==1.2.0
+imbalanced-learn==0.10.1
+gensim==4.3.1
+
+# BERT y PyTorch
+torch==2.0.0
+transformers==4.28.1
+
+# Herramientas adicionales
+jupyter==1.0.0
+tqdm==4.65.0
+wordcloud==1.8.2.2
